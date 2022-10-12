@@ -1,0 +1,30 @@
+body{
+  justify-content:center
+}
+h1{
+  text-align: center;
+}
+.b3{
+  border-style: solid;
+  display: flex;
+  width: 100px;
+  height: 100px;
+  align-items: center;
+  margin: auto;
+}
+.b2{
+  border-style: solid;
+  display: flex;
+  width: 300px;
+  height: 300px;
+  align-items: center;
+  margin: auto;
+}
+.b1{
+  border-style: solid;
+  display: flex;
+  width: 500px;
+  height: 500px;
+  align-items: center;
+  margin: auto;
+}
